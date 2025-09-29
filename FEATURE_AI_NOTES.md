@@ -1,0 +1,1 @@
+Basic haiku viewer implemented with a simple next button to cycle through haikus. CSS styled for a clean, minimal look.
